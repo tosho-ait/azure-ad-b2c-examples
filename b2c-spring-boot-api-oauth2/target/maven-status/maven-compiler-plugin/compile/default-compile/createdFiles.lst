@@ -1,6 +1,0 @@
-com\azure\spring\sample\aad\b2c\spring\WebSecurityConfiguration.class
-com\azure\spring\sample\aad\b2c\AzureADB2CResourceServerSampleApplicationTwo.class
-com\azure\spring\sample\aad\b2c\security\ViamedisPrincipal$ViamedisPrincipalBuilder.class
-com\azure\spring\sample\aad\b2c\security\ViamedisPrincipal.class
-com\azure\spring\sample\aad\b2c\spring\SecurityControllerAdvice.class
-com\azure\spring\sample\aad\b2c\controller\WebController.class
