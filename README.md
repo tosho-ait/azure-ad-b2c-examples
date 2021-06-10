@@ -2,6 +2,7 @@
 
 Scribbled together from the Microsoft Azure samples and from Stack Overflow :-)
 
+
 ## "b2c-javascript-spa-msal" - Example JS FE Module
 
 The Example JS FE Module uses the Microsoft MSAL library to integrate with Azure AD B2C.
@@ -10,6 +11,19 @@ It shows how to do a user log-in and access the API provided by the Spring Boot 
 to run the example do:
 ```
 cd b2c-javascript-spa-msal
+npm install
+npm start
+```
+
+
+## "b2c-react-spa-msal" - Example JS FE Module
+
+The Example JS FE Module uses the Microsoft MSAL React library to integrate with Azure AD B2C.
+It shows how to do a user log-in and access the API provided by the Spring Boot after that.
+
+to run the example do:
+```
+cd b2c-react-spa-msal
 npm install
 npm start
 ```
